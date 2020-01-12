@@ -15,25 +15,26 @@ module.exports = {
                 availableToHire: false,
                 dotColors: ["#0e3e1e", "#6CC551"],
                 h1Text: `Hi!, I'm Saurabh Mhatre`,
-                h2Text: `I'm a Front end developer who loves working on product websites, I have
+                h2Text: `I'm a programmer who loves working in frontend development, I have
                     worked as a software developer since 2015.`,
                 typewriter: [
                   `Coding is my passion 😎`,
-                  `I'm a also a technical writer ✍️`,
+                  `I like technical writing ✍️`,
                   `I'm a pretty fast learner and always interested in learning new technologies 🤓`,
                   `I think one of my values is the <strong>ability to resolve problems<strong>`,
                   `I like to share what I know 👨‍🏫`,
                   `In my non-coding hours, I'm at the 🏋‍`,
-                  `I also do design and UX work <span style='color: #27ae60;'>occasionally</span>`,
+                  `I also learn about data science <span style='color: #27ae60;'>occasionally</span>`,
                 ],
               },
+              email: `codeclassifiers@gmail.com`,
               social: {
                 // Usernames
-                twitter: `codeclassifiers`,
+                twitter: `saurabhnative`,
                 gitHub: `codeclassifiers`,
-                stackOverflow: `codeclassifiers`,
+                stackOverflow: `10843370/saurabh-mhatre`,
                 linkedIn: `in/saurabh-mhatre/`,
-                resumeInPdf: `/sampleresume.pdf`, // url or local link
+                resumeInPdf: `https://www.dropbox.com/s/kmjc92wgftlbu19/Resume.pdf?dl=0`, // url or local link
               },
         }
         }
